@@ -1,2 +1,2 @@
-# jupy2
-# lần 2 tao làm gì đấy nhỉ
+# xử lý tín hiệu số thời gian thực
+# chương 2 3 5
